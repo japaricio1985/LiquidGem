@@ -1,0 +1,148 @@
+body {
+	margin: 0 auto;
+	font-family: 'Nunito', sans-serif;
+}
+
+img.logo {
+	height: 35px;
+	width: 35px;
+	padding-left: 40px;
+}
+
+h1.logo {
+	display: inline-block;
+	color: grey;
+	font-family:  'Lobster', cursive;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	margin-right: 150px;
+	margin-left: 0px;
+}
+
+ul {
+	display: inline-block;
+	text-decoration: none;	
+	padding-left: 600px;
+}
+
+li {
+	display: inline-block;
+	text-decoration: none;
+	color:font-family: 'Nunito', sans-serif;;
+}
+
+a {
+	color: #F2ADBE;
+	text-decoration: none;
+	padding: 15px;
+}
+
+hr {
+	margin-right: 0px;
+	margin-left: 100px;
+	width: 1160px;
+}
+
+h1 {
+	text-align: center;
+	color: #635B5A;
+	margin-top: 60px;
+	margin-left: 100px;
+}
+
+span {
+	color: #F2ADBE;
+}
+
+h3.center-text {
+	font-size: 18px;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 50px;
+	color: #635B5A;
+}
+
+img.center-pic {
+	height: 350px;
+	width: 1000px;
+	margin-top: 50px;
+	margin-bottom: 0px;
+	margin-left: 190px;
+	margin-right: 100px;
+	border-radius: 5%;
+}
+
+div {
+	width: none;
+	display: inline-block;
+}
+
+.container {
+	margin-bottom: 50px;
+	margin-top: 50px;
+	width: 100%;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Lobster', cursive;
+	color: #F2ADBE;
+	font-size: 30px;
+	text-align:center;
+}
+
+p.work {
+	color: black;
+	font-family: 'Nunito', sans-serif;
+	font-size: 17px;
+	margin-top: 0px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+section.middle img {
+	border-top-left-radius: 5%;
+	border-top-right-radius: 5%;
+	height: 160px;
+	width: 160px;
+}
+
+footer {
+	background-color: black; 
+}
+
+h3.footer {
+	width: 26px;
+	color: white;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+input {
+	width: 352px;
+	margin-right: 694px;
+	margin-bottom: 6px;
+}
+
+textarea {
+	margin-right: 695px;
+	height: 60px;
+	width: 350px;
+}
+
+div.pictures {
+	margin: 20px;
+	background-color: black;
+	border-radius: 5%; 
+}
+
+h3 {
+	color: white;
+	margin: 0px;
+}
+
+p {
+	color: white;
+	margin-top: 0px;
+}
